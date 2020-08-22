@@ -26,8 +26,7 @@ def solve(inputfile, N=5):
     theo thứ tự tên học viên.
     """
     result = []
-    # Xoá dòng raise và Viết code vào đây set result làm kết quả
-    raise NotImplementedError("Học viên chưa làm bài này")
+    with 
 
     return result
 
